@@ -9,3 +9,4 @@
 - fix: clarify the setup steps
 - fix: link the usage section
 - fix: fix a small wording issue
+- chore: link the usage section
